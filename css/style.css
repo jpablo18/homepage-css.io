@@ -1,34 +1,54 @@
-.wiki{
-    height:600px;
-    width:800px;
-}
-.video{
-  width:560px;
-  height:315px;
-}
-body{
-  font-family:cursive;
-  background-color:#f0c297;
+body {
+  background-image:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS911IaqlhGjJ_SZT8vuA5RpoCm8adWIBtbU2BnXlyAAntfJ9aC&s);
+background-repeat: no-repeat;
+background-size: cover;
+height:100vh;
 }
 
+h1 {
+  color:#000000;
+  font-style: italic;
+}
+
+.color {
+  background-color:#d3f2e9;
+}
+
+h2 {
+  color:#7d7878;
+}
+
+#HI {
+  color:#0090a3;
+  font-size:20px;
+}
+
+.cities {
+background-color:#d5e4ed;
+color: white;
+margin: 1px;
+padding: 2px;
+}
+
+
 ul {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-  overflow: hidden;
-  background-color: #333;
+list-style-type: none;
+margin: 0;
+padding: 0;
+overflow: hidden;
+background-color: #333;
 }
 
 li {
-  float: left;
+float: left;
 }
 
 li a {
-  display: block;
-  color: white;
-  text-align: center;
-  padding: 14px 16px;
-  text-decoration: none;
+display: block;
+color: white;
+text-align: center;
+padding: 14px 16px;
+text-decoration: none;
 }
 
 li a:hover {
