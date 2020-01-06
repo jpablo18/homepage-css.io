@@ -1,8 +1,11 @@
 *
 {
-  border: 1px solid red;
+  /* border: 1px solid red; */
   margin:0;
   padding:0;
+}
+.top {
+  min-height: 100px;
 }
 body{
  background-image:url(../images/money.jpg);
@@ -46,6 +49,7 @@ body{
   width:1898px;
   margin:0 auto;
   clear: both;
+  text-align: center;
 }
 h1 {
   color:white;
@@ -55,9 +59,7 @@ h1 {
   margin-top:275px;
 }
 .adopt {
-  margin-top:350px;
-  /*margin-top: 30px;
-  margin-left: 540px;*/
+
 }
 .bttn {
   border:1px solid white;
@@ -67,7 +69,9 @@ h1 {
   font-size:22px;
   text-decoration:none;
 }
-
-.adopt a:hover {
+.bttn:hover{
   background-color: burlywood;
 }
+/* .adopt a:hover {
+  background-color: burlywood;
+} */
