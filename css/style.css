@@ -38,7 +38,6 @@ body{
 }
 .homebtn a{
   border:1px solid grey;
-  background-color:white;
 }
 .nav-menu li a:hover{
   border:1px solid grey;
